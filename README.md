@@ -8,3 +8,5 @@ Next i created a bar chart to examine the return rate for each category. This ti
 A map visual of the united states was created to see the average return rate in each state.
 
 My calclated feild is measured by avarage once again in the next visual. I built a line chart to show the monthly return rate average.
+
+The last 2 slides consists of my dashboard and story. This is used  to explain what results where found in my data on each visual.
